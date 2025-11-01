@@ -96,11 +96,6 @@ Body en formato JSON:
 }
 ```
 
-## Evidencias
-
-- Capturas de ejecución de terminal
-- Capturas de pruebas en Postman
-
 ## Autor
 
 Institución: UDLA  
